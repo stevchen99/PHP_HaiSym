@@ -1,0 +1,9 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#Hai_Me:
+#    path:       /hello-stev
+#    controller: App\Controller\AdvertController::index
+
+
